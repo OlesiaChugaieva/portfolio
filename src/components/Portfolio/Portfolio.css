@@ -1,0 +1,18 @@
+
+.gallery{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.gallery img{
+    height: 250px;
+    margin: 10px;
+}
+
+
+#portfolio{
+    display: flex;
+    flex-direction: column;
+    color:black;
+}

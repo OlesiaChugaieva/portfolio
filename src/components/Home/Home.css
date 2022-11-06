@@ -1,0 +1,25 @@
+ #home{
+        height: 820px;
+    }
+
+    .heading{
+        font-size: 1.7rem;
+    }
+
+#home{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    /* justify-content: center;
+    align-items: center; */
+    color: white;
+}
+
+.headings {
+color: black;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.btn{
+margin-top: 200px ;
+}

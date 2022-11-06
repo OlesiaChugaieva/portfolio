@@ -1,0 +1,32 @@
+#contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: black;
+}
+
+form {
+    display:block;
+    margin-top: 0em;
+    display: flex;
+    flex-direction:column;
+    height: auto;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+
+   
+}
+
+submit {
+    position: absolute;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
