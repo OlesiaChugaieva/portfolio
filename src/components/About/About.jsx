@@ -1,5 +1,5 @@
 import React from 'react'
-import olesia from '../../assets/images/IMG_0014.JPG'
+import olesia from '../../assets/images/IMG_2415.jpg'
 import "./About.css"
 
 const About = () => {
