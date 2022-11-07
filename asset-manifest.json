@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef2bc602.css",
+    "main.js": "/static/js/main.88453ffe.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/IMG_2415.jpg": "/static/media/IMG_2415.3002fda0acd6b2c22f48.jpg",
+    "static/media/Project1.jpg": "/static/media/Project1.41c14e06a8370b2ad0aa.jpg",
+    "static/media/ClassroomManagementApp.jpg": "/static/media/ClassroomManagementApp.4b48971c8d5f9c1145c9.jpg",
+    "static/media/React-icon.svg.png": "/static/media/React-icon.svg.8a6fc0a24a800d1e0f4a.png",
+    "static/media/github-icon.svg": "/static/media/github-icon.59d97099c98869ddd8b61a9868efb19d.svg",
+    "static/media/node-js.svg": "/static/media/node-js.2b4170fb92b9e8f74f799b0a13a0263c.svg",
+    "static/media/html5-icon.svg": "/static/media/html5-icon.e7638e3676622c76a46ece6c46136fd4.svg",
+    "static/media/css3-icon.svg": "/static/media/css3-icon.c23b6d39a6696361a79bad6b48014e0d.svg",
+    "static/media/js-icon.svg": "/static/media/js-icon.7f3c55f6be4e7d7bf6eb4be67dbc1333.svg",
+    "static/media/linkedin-icon.svg": "/static/media/linkedin-icon.aa1438c1c6535b8baf1f9c0ad77498aa.svg",
+    "static/media/instragram-icon.svg": "/static/media/instragram-icon.306b547c875b852e216856ec59f02a18.svg",
+    "static/media/facebook-icon.svg": "/static/media/facebook-icon.8ed0b41dbf39bd4dd18fee27a8f3fcb8.svg",
+    "index.html": "/index.html",
+    "main.ef2bc602.css.map": "/static/css/main.ef2bc602.css.map",
+    "main.88453ffe.js.map": "/static/js/main.88453ffe.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef2bc602.css",
+    "static/js/main.88453ffe.js"
+  ]
+}
